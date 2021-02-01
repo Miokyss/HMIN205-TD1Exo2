@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TD1Exo2</string>
+    <string name="menu_settings">Settings</string>
+    <string name="button_label">Show message</string>
+    <string name="image_content">image</string>
+    <string name="text_view">Ma première application Android</string>
+    <string name="edit_text">EditText from xml code</string>
+</resources>
